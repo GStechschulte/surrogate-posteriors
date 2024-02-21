@@ -1,1 +1,1 @@
-# bayes-opt
+# surrogate-posteriors
